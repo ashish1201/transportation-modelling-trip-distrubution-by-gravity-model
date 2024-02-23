@@ -1,4 +1,4 @@
-# transportation-modelling-trip-distrubution-by-gravity-model
+# transportation-modelling-trip-distribution-by-gravity-model
 A process by which the trips generated in one zone are allocated to other zones in the study area is trip distribution.Gravity model is one such method for distrubuting the trip.Here number of trips between two zones is directly proportional to number of trips and inversely proportional to function of tinme of travel.
 
 
